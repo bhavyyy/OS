@@ -1,9 +1,5 @@
 #include <stdio.h>
 #include<stdlib.h>
-//-------------------------------------------
-//Name: Aryaman
-//Reg. No: 200968048
-//-------------------------------------------
 int tavail[3];
 int talloc[10][3];
 int tmax[10][3];

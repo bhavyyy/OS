@@ -1,10 +1,5 @@
 #include <stdio.h>
 #include<stdlib.h>
-//-----------------------------------------
-//Name: Aryaman
-//Reg. No: 200968048
-//-----------------------------------------
-
 int i, j;
 int avail[3];
 int alloc[10][3];
